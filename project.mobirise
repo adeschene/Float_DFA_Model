@@ -36,7 +36,9 @@
     "siteFonts": [],
     "uniqCompNum": 13,
     "versionPublish": "4.8.10",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/github-favicon-128x128.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
