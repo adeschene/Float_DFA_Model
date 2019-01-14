@@ -60,6 +60,9 @@
             },
             "& when (@bg-type = 'image')": {
               "background-image": "url(@bg-value)"
+            },
+            "H2": {
+              "color": "#232323"
             }
           },
           "_name": "content5",
