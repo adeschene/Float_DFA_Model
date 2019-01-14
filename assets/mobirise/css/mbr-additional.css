@@ -1382,18 +1382,21 @@ body {
   }
 }
 .cid-rf1MRroKsK {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/jumbotron.jpg");
+  padding-top: 105px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/mbr-1280x720.jpg");
 }
 .cid-rf1PXh8TNz {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
 .cid-rf1PXh8TNz .mbr-text,
 .cid-rf1PXh8TNz blockquote {
   color: #767676;
+}
+.cid-rf1PXh8TNz .mbr-text B {
+  color: #232323;
 }
 .cid-rf1RLwQuKv {
   padding-top: 30px;
